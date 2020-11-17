@@ -1,0 +1,4 @@
+# Project exclude paths
+/echo-base/target/
+/echo-netty/target/
+/echo-util/target/
